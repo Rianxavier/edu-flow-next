@@ -6,7 +6,7 @@ import { BsFilePersonFill } from "react-icons/bs";
 
 export default function Sidebar() {
     return (
-        <aside className="w-[260px] bg-white h-screen p-6 shadow-md shadow-slate-600 gap-4 flex flex-col">
+        <aside className="w-72 bg-white h-screen p-6 shadow-md shadow-slate-600 gap-4 flex flex-col">
             <div className="flex justify-center">
                 LOGO
             </div>
