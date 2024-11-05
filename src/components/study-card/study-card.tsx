@@ -27,7 +27,7 @@ export default function StudyCard() {
 
                 <div className="space-x-2 mt-2">
                     <Button text="Editar" className="bg-slate-300" />
-                    <Button text="Concluir" className="bg-orange-400 text-white" />
+                    <Button text="Concluir" className="bg-orange-600 text-white" />
                 </div>
             </div>
         </div>
